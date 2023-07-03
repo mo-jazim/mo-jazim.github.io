@@ -2046,10 +2046,7 @@ html, body {
   margin-top: 50px;
 }
 
-/* Sections background: Quote */
-.section-quote {
-  background: url(../img/quote.jpg) center no-repeat fixed;
-}
+
 
 .section-quote p {
   margin-top: 0;
